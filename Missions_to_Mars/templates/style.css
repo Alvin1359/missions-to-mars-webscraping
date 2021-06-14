@@ -4,6 +4,7 @@
      height: 150px;
   }
 
-  .row-sm {width: 400px;
+  .row-sm {
+    width: 800px;
   }
 }
